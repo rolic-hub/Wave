@@ -195,6 +195,9 @@ export default function App() {
           Hi i am Heeze, i am a web3 developer and am looking to connect with
           other developers
         </div>
+        <div className="bio" style={{ marginBottom: "20px" }}>
+          Input a mesage below and wave for the chance to win eth
+        </div>
         <input
           placeholder="Enter message"
           style={{ justifyContent: "center" }}
