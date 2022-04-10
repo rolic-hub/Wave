@@ -194,10 +194,10 @@ export default function App() {
         <div className="bio" style={{ marginBottom: "20px" }}>
           Hi i am Heeze, i am a web3 developer and am looking to connect with
           other developers
+          <br/>
+          Connect your wallet and wave 
         </div>
-        <div className="bio" style={{ marginBottom: "20px" }}>
-          Input a mesage below and wave for the chance to win eth
-        </div>
+        
         <input
           placeholder="Enter message"
           style={{ justifyContent: "center" }}
